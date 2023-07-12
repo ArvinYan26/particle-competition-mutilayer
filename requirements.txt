@@ -1,0 +1,6 @@
+#pip install -r rewuirements.txt
+python==3.7.0
+multinetx==2.3
+numpy==1.21.6
+matplotlib==3.5.3
+
